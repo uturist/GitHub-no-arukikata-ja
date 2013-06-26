@@ -1,4 +1,37 @@
-GitHub-no-arukikata-ja
+GitHub-no-arukikata-ja GitHubの歩き方を日本語でメモります。
 ======================
 
-_GitHubの歩き方_を日本語でメモります。
+githubの歩き方 日本語
+
+１．ネットで学ぶ
+私が特に参考になったと思うページ。書いてくれた皆さんありがとう！
+
+GitHub - ウィキペディア
+http://ja.wikipedia.org/wiki/GitHub
+
+そもそもGitHubとは一体何か？ - techcrunch
+http://jp.techcrunch.com/2012/07/15/20120714what-exactly-is-github-anyway/
+
+GitとGithubの使い方~超初級編~ - nigoblog 
+http://nigohiroki.hatenablog.com/entry/2012/09/12/000003
+
+Git がわからなくても Github を利用しよう - そんなこと覚えてない
+http://blog.eiel.info/blog/2013/02/06/how-to-use-github/
+
+GitHub初心者はForkしない方のPull Requestから入門しよう - ruedap
+http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/
+
+README.mdファイル。マークダウン記法まとめ - codechord
+http://codechord.com/2012/01/readme-markdown/
+
+
+２．アカウントを作る
+
+３．先人の動きを観察する(Followする)
+
+４．何か作ってみる
+最初は簡単なメモで。
+私は「githubの歩き方」を作ってみました。
+
+５．ライセンスを勉強する
+

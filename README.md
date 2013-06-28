@@ -3,7 +3,7 @@
 
 1.歩いてきた道  
 ======================
-　*ネット情報で学ぶ  
+　*ネットの情報をみる→ https://github.com/uturist/GitHub-no-arukikata-ja#3  
 　*アカウントを作る  
 　*先人の動きを観察する(Followする)  
 　*README.mdのみのRepositoryを作りGitHubの動きを理解する(uturistはこの「GitHubの歩き方」を作ってみました)。  

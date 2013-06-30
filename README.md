@@ -33,4 +33,8 @@ GitHub初心者はForkしない方のPull Requestから入門しよう - ruedap
 http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/
 
 README.mdファイル。マークダウン記法まとめ - codechord  
-http://codechord.com/2012/01/readme-markdown/
+http://codechord.com/2012/01/readme-markdown/  
+
+【git】公開リポジトリを扱う方法【github】 - メモ  
+http://ratememo.blog17.fc2.com/blog-entry-579.html
+

@@ -6,11 +6,13 @@
 　*ネットの情報をみる→ https://github.com/uturist/GitHub-no-arukikata-ja#3  
 　*アカウントを作る  
 　*先人の動きを観察する(Followする)  
-　*README.mdのみのRepositoryを作りGitHubの動きを理解する(uturistはこの「GitHubの歩き方」を作ってみました)。  
+　*README.mdのみのRepositoryを作りGitHubの動きを理解する。  
+　(uturistはこの「GitHubの歩き方」を作ってみました)  
 
 2.これから歩く予定
 ======================
-　*ライセンス
+　*ライセンス  
+　*.gitignoreファイルについて
 
 3.特に参考になったと思うページ。書いてくれた皆さんありがとう！
 ======================

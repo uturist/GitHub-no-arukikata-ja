@@ -1,4 +1,4 @@
-#GitHub-no-arukikata-ja GitHubの歩き方 日本語  
+﻿#GitHub-no-arukikata-ja GitHubの歩き方 日本語  
 ======================
 
 1.歩いてきた道  
@@ -36,5 +36,8 @@ README.mdファイル。マークダウン記法まとめ - codechord
 http://codechord.com/2012/01/readme-markdown/  
 
 【git】公開リポジトリを扱う方法【github】 - メモ  
-http://ratememo.blog17.fc2.com/blog-entry-579.html
+http://ratememo.blog17.fc2.com/blog-entry-579.html  
+
+GitHUB for Windowsの使い勝手が素晴らしすぎるので使い方の手順を書いてみる - 鵺鳥鳴く  
+http://blogs.yahoo.co.jp/nanashi_hippie/53492894.html  
 

@@ -4,10 +4,15 @@
 1.歩いてきた道  
 ======================
 　*ネットの情報をみる→ https://github.com/uturist/GitHub-no-arukikata-ja#3  
-　*アカウントを作る  
-　*先人の動きを観察する(Followする)  
-　*README.mdのみのRepositoryを作りGitHubの動きを理解する。  
+　*アカウント作成  
+　*先人の動きを観察(Follow)  
+　*README.mdのみのRepositoryを作りGitHubの動きを理解  
 　(uturistはこの「GitHubの歩き方」を作ってみました)  
+　*GitHub for WindowsをPCにインストール  
+　*fork  
+　*Clone in Desktop  
+　*ローカル側で変更  
+　*ローカルとリモートをsync  
 
 2.これから歩く予定
 ======================

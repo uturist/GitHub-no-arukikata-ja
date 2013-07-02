@@ -48,3 +48,6 @@ http://ratememo.blog17.fc2.com/blog-entry-579.html
 GitHUB for Windowsの使い勝手が素晴らしすぎるので使い方の手順を書いてみる - 鵺鳥鳴く  
 http://blogs.yahoo.co.jp/nanashi_hippie/53492894.html  
 
+[Wordpress]WordpressをGitで管理する - Tatsuquito  
+http://d.hatena.ne.jp/tatsuquito/20110114/1294985809  
+

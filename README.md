@@ -34,7 +34,10 @@ GitとGithubの使い方~超初級編~ - nigoblog
 http://nigohiroki.hatenablog.com/entry/2012/09/12/000003
 
 Git がわからなくても Github を利用しよう - そんなこと覚えてない  
-http://blog.eiel.info/blog/2013/02/06/how-to-use-github/
+http://blog.eiel.info/blog/2013/02/06/how-to-use-github/  
+
+GitHubをもっとソーシャルに使いこなすための7つ道具  
+http://www.atmarkit.co.jp/fjava/column/andoh/andoh60.html
 
 GitHub初心者はForkしない方のPull Requestから入門しよう - ruedap  
 http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/

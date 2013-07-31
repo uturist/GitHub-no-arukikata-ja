@@ -52,11 +52,9 @@ http://blogs.yahoo.co.jp/nanashi_hippie/53492894.html
 [Wordpress]WordpressをGitで管理する - Tatsuquito  
 http://d.hatena.ne.jp/tatsuquito/20110114/1294985809  
 
-もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選  
+もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選 - Find Job !  
 http://www.find-job.net/startup/7-git-slides  
 
-GitHubをもっとソーシャルに使いこなすための7つ道具  
+GitHubをもっとソーシャルに使いこなすための7つ道具 - @IT  
 http://www.atmarkit.co.jp/fjava/column/andoh/andoh60.html  
 
-こわくない Git  
-http://www.slideshare.net/kotas/git-15276118

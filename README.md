@@ -3,7 +3,8 @@
 
 1.歩いてきた道  
 ======================
-　*ネットの情報をみる→ https://github.com/uturist/GitHub-no-arukikata-ja#3  
+　*ネットの情報をみる(いろんな人の解説を読むと理解が深まると思います)  
+　→ https://github.com/uturist/GitHub-no-arukikata-ja#3  
 　*アカウント作成  
 　*先人の動きを観察(Follow)  
 　*README.mdのみのRepositoryを作りGitHubの動きを理解  
@@ -36,9 +37,6 @@ http://nigohiroki.hatenablog.com/entry/2012/09/12/000003
 Git がわからなくても Github を利用しよう - そんなこと覚えてない  
 http://blog.eiel.info/blog/2013/02/06/how-to-use-github/  
 
-GitHubをもっとソーシャルに使いこなすための7つ道具  
-http://www.atmarkit.co.jp/fjava/column/andoh/andoh60.html
-
 GitHub初心者はForkしない方のPull Requestから入門しよう - ruedap  
 http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/
 
@@ -55,4 +53,10 @@ http://blogs.yahoo.co.jp/nanashi_hippie/53492894.html
 http://d.hatena.ne.jp/tatsuquito/20110114/1294985809  
 
 もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選  
-http://www.find-job.net/startup/7-git-slides
+http://www.find-job.net/startup/7-git-slides  
+
+GitHubをもっとソーシャルに使いこなすための7つ道具  
+http://www.atmarkit.co.jp/fjava/column/andoh/andoh60.html  
+
+こわくない Git  
+http://www.slideshare.net/kotas/git-15276118

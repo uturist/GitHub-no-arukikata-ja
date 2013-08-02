@@ -8,7 +8,7 @@
 　*アカウント作成  
 　*先人の動きを観察(Follow)  
 　*README.mdのみのRepositoryを作りGitHubの動きを理解  
-　(uturistはこの「GitHubの歩き方」を作ってみました)  
+　(私はこの「GitHubの歩き方」を作ってみました)  
 　*GitHub for WindowsをPCにインストール  
 　*fork  
 　*Clone in Desktop  

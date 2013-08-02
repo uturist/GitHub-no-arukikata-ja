@@ -4,7 +4,7 @@
 1.歩いてきた道  
 ======================
 　*ネットの情報をみる(いろんな人の解説を読むと理解が深まると思います)  
-　→ https://github.com/uturist/GitHub-no-arukikata-ja#3  
+　　→ 「3.特に参考になったと思うページ。」を見てください。  
 　*アカウント作成  
 　*先人の動きを観察(Follow)  
 　*README.mdのみのRepositoryを作りGitHubの動きを理解  
